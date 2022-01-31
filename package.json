@@ -19,6 +19,7 @@
     "expo": "~41.0.1",
     "expo-linear-gradient": "^9.1.0",
     "expo-status-bar": "~1.0.4",
+    "firebase": "^9.6.5",
     "git-cz": "^4.8.0",
     "husky": "6.0.0",
     "prettier": "^2.2.1",
@@ -38,6 +39,7 @@
   "devDependencies": {
     "@babel/cli": "7.13.0",
     "@babel/core": "^7.13.16",
+    "@types/firebase": "^3.2.1",
     "@types/react": "^16.14.5",
     "@types/react-native": "^0.63.52",
     "@types/react-router-native": "^5.1.0",
